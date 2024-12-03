@@ -8,11 +8,11 @@ import reactor.test.StepVerifier;
  *
  * Read first:
  *
- * https://projectreactor.io/docs/core/release/reference/#which.values
+ * https://projectreactor.io/docs/core/release/reference/apdx-operatorChoice.html#which.values
  *
  * Useful documentation:
  *
- * https://projectreactor.io/docs/core/release/reference/#which-operator
+ * https://projectreactor.io/docs/core/release/reference/apdx-operatorChoice.html
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html
  *
