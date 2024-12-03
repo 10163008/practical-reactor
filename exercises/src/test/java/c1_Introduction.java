@@ -18,8 +18,9 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * Read first:
  *
- * https://projectreactor.io/docs/core/release/reference/#intro-reactive
- * https://projectreactor.io/docs/core/release/reference/coreFeatures/simple-ways-to-create-a-flux-or-mono-and-subscribe-to-it.html
+ * https://projectreactor.io/docs/core/release/reference/aboutDoc.html
+ * https://projectreactor.io/docs/core/release/reference/gettingStarted.html
+ * https://projectreactor.io/docs/core/release/reference/reactiveProgramming.html
  *
  * Useful documentation:
  *

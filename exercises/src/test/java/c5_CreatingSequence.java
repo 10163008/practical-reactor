@@ -19,13 +19,13 @@ import java.util.stream.Stream;
  *
  * Read first:
  *
- * https://projectreactor.io/docs/core/release/reference/#which.create
- * https://projectreactor.io/docs/core/release/reference/#producing
- * https://projectreactor.io/docs/core/release/reference/#_simple_ways_to_create_a_flux_or_mono_and_subscribe_to_it
+ * https://projectreactor.io/docs/core/release/reference/apdx-operatorChoice.html#which.create
+ * https://projectreactor.io/docs/core/release/reference/#producing // FIXME link is broken
+ * https://projectreactor.io/docs/core/release/reference/coreFeatures/simple-ways-to-create-a-flux-or-mono-and-subscribe-to-it.html
  *
  * Useful documentation:
  *
- * https://projectreactor.io/docs/core/release/reference/#which-operator
+ * https://projectreactor.io/docs/core/release/reference/apdx-operatorChoice.html
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html
  *

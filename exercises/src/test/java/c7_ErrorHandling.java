@@ -12,12 +12,12 @@ import java.util.function.Function;
  *
  * Read first:
  *
- * https://projectreactor.io/docs/core/release/reference/#which.errors
- * https://projectreactor.io/docs/core/release/reference/#error.handling
+ * https://projectreactor.io/docs/core/release/reference/apdx-operatorChoice.html#which.errors
+ * https://projectreactor.io/docs/core/release/reference/coreFeatures/error-handling.html
  *
  * Useful documentation:
  *
- * https://projectreactor.io/docs/core/release/reference/#which-operator
+ * https://projectreactor.io/docs/core/release/reference/apdx-operatorChoice.html
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html
  *

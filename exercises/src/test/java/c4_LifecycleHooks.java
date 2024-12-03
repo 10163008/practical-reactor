@@ -16,11 +16,11 @@ import java.util.concurrent.atomic.AtomicInteger;
  *
  * Read first:
  *
- * https://projectreactor.io/docs/core/release/reference/#which.peeking
+ * https://projectreactor.io/docs/core/release/reference/apdx-operatorChoice.html#which.peeking
  *
  * Useful documentation:
  *
- * https://projectreactor.io/docs/core/release/reference/#which-operator
+ * https://projectreactor.io/docs/core/release/reference/apdx-operatorChoice.html
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html
  *
