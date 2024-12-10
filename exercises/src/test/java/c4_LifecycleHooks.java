@@ -227,9 +227,7 @@ public class c4_LifecycleHooks extends LifecycleHooksBase {
         CopyOnWriteArrayList<String> signals = new CopyOnWriteArrayList<>();
 
         Flux<Integer> flux = Flux.just(1, 2, 3)
-                .materialize()
-                .doOnEach(signal -> signals.add(signal.get().getType().name()))
-                .dematerialize()
+                .doOnEach(signal -> signals.add(signal.getType().name()))
                 //todo: change this line only
                 ;
 
