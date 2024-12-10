@@ -77,11 +77,9 @@ public class c4_LifecycleHooks extends LifecycleHooksBase {
         AtomicInteger counter = new AtomicInteger(0);
 
         Flux<Integer> temperatureFlux = room_temperature_service()
-                .doOnEach(value -> {
-                    if (value.hasValue()) {
-                        System.out.println(value.get());
+                .doOnNext(value -> {
+                        System.out.println(value);
                         counter.incrementAndGet();
-                    }
                 })
                 //todo: change this line only
                 ;
